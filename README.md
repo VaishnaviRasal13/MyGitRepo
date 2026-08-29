@@ -1,5 +1,5 @@
 # MyGitRepo
-My first git repository
+This is My first git repository
 <br>
 welcome to git session
 <button>submit<button>
